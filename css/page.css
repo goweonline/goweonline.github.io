@@ -1,0 +1,12 @@
+.wrapper {
+    height: 60px;
+}
+
+.panel {
+    width: 90%;
+    margin: auto;
+}
+
+.panel-title {
+    text-align: center;   
+}
